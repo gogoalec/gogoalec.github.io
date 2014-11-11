@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[I'm Bao Yuting]]></title>
-  <link href="http://baoyuting.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Atlanta | I'm Bao Yuting]]></title>
+  <link href="http://baoyuting.com/blog/categories/atlanta/atom.xml" rel="self"/>
   <link href="http://baoyuting.com/"/>
   <updated>2014-11-11T17:55:43-05:00</updated>
   <id>http://baoyuting.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://baoyuting.com/blog/2014/11/11/lost-in-atlanta/"/>
     <updated>2014-11-11T16:14:15-05:00</updated>
     <id>http://baoyuting.com/blog/2014/11/11/lost-in-atlanta</id>
-    <content type="html"><![CDATA[<p><img src="http://baoyuting.com/Atlanta_skyline.jpg" title="[960] [Skyline of Atlanta]" ></p>
+    <content type="html"><![CDATA[<p><img src="/Atlanta_skyline.jpg" title="[960] [Skyline of Atlanta]" ></p>
 ]]></content>
   </entry>
   
